@@ -1,2 +1,2 @@
 # Cybersecurity
-It's was our Project of Cybersecurity by AICTE FEB 2025
+It is my Project of Cybersecurity by AICTE FEB 2025
